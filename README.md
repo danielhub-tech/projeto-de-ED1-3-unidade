@@ -11,6 +11,8 @@ Este projeto é um Sistema de Gerenciamento de Pedidos para uma Açaíteria dese
 ### Sistema de Login
 
   * **Autenticação de Usuário:** Login baseado em usuário e senha pré-definida.
+     USUARIO: teste
+     SENHA:   teste1234
   * **Validação de E-mail:** Solicita um e-mail após o login, garantindo que ele contenha o caractere `@` e que seja único (não tenha sido utilizado nos logins anteriores).
 
 ### Operações Básicas de Pedidos de Açaí
