@@ -1,6 +1,6 @@
 # projeto-de-ED1
 
-## Sistema de Gerenciamento - Açaiteria Bom Sabor
+## Sistema de Gerenciamento - Açaiteria Bom Sabor (V 2.0)
 
 Este projeto é um Sistema de Gerenciamento de Pedidos para uma Açaíteria desenvolvida em C. O sistema utiliza manipulação de arquivos de texto para persistência de dados e programação estruturada para implementação de operações básicas (Registrar, Listar, Editar, Excluir) e relatórios diversos.
 
