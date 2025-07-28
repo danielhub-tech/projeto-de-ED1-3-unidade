@@ -45,7 +45,7 @@ Para compilar e rodar o projeto, você precisará de um compilador C (como o GCC
 
 **1. Compilar o programa:**
 
-Abra o terminal na pasta do projeto e execute o comando abaixo. Ele irá juntar os arquivos `main.c` e `pedidos.c` em um único programa executável.
+Abra o terminal na pasta do projeto e execute o comando abaixo. 
 
 ```bash
 gcc main.c pedidos.c -o projeto_ed1_3un
