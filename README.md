@@ -1,9 +1,3 @@
-Com certeza\! Baseado no seu `README` original e em todas as melhorias que implementamos, preparei uma nova versão atualizada que descreve a arquitetura avançada do projeto.
-
-Ele agora destaca o uso da lista encadeada, dos algoritmos de ordenação e busca, e da modularização do código, além de incluir as instruções de compilação e execução que você pediu.
-
------
-
 # Sistema de Gerenciamento - Açaiteria Bom Sabor (Versão Avançada)
 
 Este projeto é um Sistema de Gerenciamento de Pedidos para uma Açaíteria, desenvolvido em C, que evoluiu de uma simples manipulação de arquivos para uma arquitetura mais robusta e eficiente.
